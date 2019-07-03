@@ -2,13 +2,13 @@
 
 ## **TOOLS / LIBRARIES**-  
 1)Programming Language used for **WEB SCRAPING** is **R**.  
-2)**LIBRARIES** used are **rvest** for **STATIC WEB SCRAPING** & **RSelenium** for **DYNAMIC WEB SCRAPING**. 
+2)**LIBRARIES** used are **rvest** for **STATIC WEB SCRAPING** & **RSelenium** for **DYNAMIC WEB SCRAPING**.  
 3)**BROWSER** used for WEB SCRAPING is **Firefox Developer Edition**, version is **69.0b1 (64-bit)**.   
 4)**SELECTOR GADGET** of **Google Chrome** browser is used to find **CSS selector** of a desired element.  
 
 ## **DESCRIPTION**- 
 1)Understaning **STATIC WEB SCRAPING** by scraping **URL** of **gmail service login** from **GOOGLE SEARCH WEB PAGE**.  
-2))Understaning **DYNAMIC WEB SCRAPING** by scraping **USERNAME,NUMBER OF DRAFT MAILS & NUMBER OF SPAM MAILS** of **gmail account**.  
+2)Understaning **DYNAMIC WEB SCRAPING** by scraping **USERNAME,NUMBER OF DRAFT MAILS & NUMBER OF SPAM MAILS** of **gmail account**.  
 
 ## **CODE**
 
