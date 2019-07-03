@@ -1,7 +1,7 @@
 # JAYDEEP-GMAIL-SCRAPING
 ## KINDLY READ IT, ANALYZE IT.
 ###  PLZZ NO COPY , PASTING OF CODE
-
+ ```
 library("xlsx")#read excel
 library("zeallot")#multiple assignment of variables %<-%
 library("rvest")#static webSCRAPING
@@ -309,3 +309,4 @@ func_Change <- function(){
 
 func_Web_Close()
 func_Change()
+```
