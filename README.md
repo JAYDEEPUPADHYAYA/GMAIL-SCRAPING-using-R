@@ -8,7 +8,7 @@
 
 ## **DESCRIPTION**- 
 1)Understaning **STATIC WEB SCRAPING** by scraping **URL** of **gmail service login** from **GOOGLE SEARCH WEB PAGE**.  
-2)Understaning **DYNAMIC WEB SCRAPING** by scraping **USERNAME,NUMBER OF DRAFT MAILS & NUMBER OF SPAM MAILS** of **gmail account**.  
+2)Understanding **DYNAMIC WEB SCRAPING** by scraping **USERNAME,NUMBER OF DRAFT MAILS & NUMBER OF SPAM MAILS** of **gmail account**.  
 
 ## **CODE**
 
