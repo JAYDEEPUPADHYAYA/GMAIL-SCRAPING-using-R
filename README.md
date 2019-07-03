@@ -1,6 +1,7 @@
 # GMAIL WEB-SCRAPING USING R
 
 ##**TOOLS / LIBRARIES**-
+
 1)Programming Language used for **WEB SCRAPING** is **R**.
 2)**LIBRARIES** used are **rvest** for **STATIC WEB SCRAPING** & **RSelenium** for **DYNAMIC WEB SCRAPING**.
 3)**BROWSER** used for WEB SCRAPING is **Firefox Developer Edition**, version is **69.0b1 (64-bit)**.
@@ -32,7 +33,7 @@ locate_na <- which(is.na(res),arr.ind = T)
 replace_na <- locate_na[,"row"]#locate row index where na is present
 res1 <- res
 res %>% drop_na() -> res
-c(e,f) %<-% res
+c(e,f) %<-% res 
 
 #_________________________________________________________________
 
