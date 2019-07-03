@@ -1,6 +1,17 @@
-# JAYDEEP-GMAIL-SCRAPING
-## KINDLY READ IT, ANALYZE IT.
-###  PLZZ NO COPY , PASTING OF CODE
+# GMAIL WEB-SCRAPING USING R
+
+##**TOOLS / LIBRARIES**-
+1)Programming Language used for **WEB SCRAPING** is **R**.
+2)**LIBRARIES** used are **rvest** for **STATIC WEB SCRAPING** & **RSelenium** for **DYNAMIC WEB SCRAPING**.
+3)**BROWSER** used for WEB SCRAPING is **Firefox Developer Edition**, version is **69.0b1 (64-bit)**.
+4)**SELECTOR GADGET** of **Google Chrome** browser is used to find **CSS selector** of a desired element.
+
+##**DESCRIPTION**-
+1)Understaning **STATIC WEB SCRAPING** by scraping **URL** of **gmail service login** from **GOOGLE SEARCH WEB PAGE**.
+2))Understaning **DYNAMIC WEB SCRAPING** by scraping **USERNAME,NUMBER OF DRAFT MAILS & NUMBER OF SPAM MAILS ** of **gmail account**.
+
+##**CODE**
+
  ```
 library("xlsx")#read excel
 library("zeallot")#multiple assignment of variables %<-%
@@ -275,7 +286,7 @@ func_Web_Close <- function(){
   remDr$close()
 }
 
-##FORMATTING THE VALUES , APPENDING NA'S * ADDING TO EXCEL FILE
+##FORMATTING THE VALUES , APPENDING NA'S & VALUES TO EXCEL FILE
 
 func_Change <- function(){
   t <- table(replace_na) %>%  names(.) %>% sapply(.,as.integer,USE.NAMES = F)
