@@ -1,4 +1,4 @@
-# GMAIL WEB-SCRAPING USING R
+# GMAIL SCRAPING USING R
 
 ## **TOOLS / LIBRARIES**-  
 1)Programming Language used for **WEB SCRAPING** is **R**.  
