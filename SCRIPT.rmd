@@ -36,7 +36,7 @@ remDr$navigate(extract_loginpage)
 func_Web <- function(u_n,p_w){
   
   ##USERNAME
-  uname_l  <-
+  uname_l  <- 
     list("tag name" = "input"
          ,"name" = "identifier"
          ,"id"   = "identifierId"
