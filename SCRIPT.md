@@ -248,6 +248,6 @@ func_Close <- function(){
   remDr$close()
 }
 
-func_Web("ilesh83.56@gmail.com","74mudrika23454053")
+func_Web("email id","password")
 func_Close()
 ```
