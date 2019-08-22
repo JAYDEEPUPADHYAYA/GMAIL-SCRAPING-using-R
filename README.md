@@ -13,3 +13,4 @@ Static scraping ignores JavaScript. It fetches web pages from the server without
 
 Dynamic scraping uses an actual browser (or a headless browser) and lets JavaScript do its thing. Then, it queries the DOM to extract the content it’s looking for. Sometimes you need to automate the browser by simulating a user to get the content you need. In order for me to get the same details for the remaining posts, i would need to first navigate to the next page, which involves clicking the Next button at the bottom of the search results page.
  
+ 
